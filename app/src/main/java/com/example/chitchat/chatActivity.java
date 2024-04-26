@@ -164,8 +164,8 @@ ZegoSendCallInvitationButton voiceCall,videoCall;
 
     private void startCall(String userID) {
         Application application = getApplication(); // Android's application context
-        long appID = 776874744;   // yourAppID
-        String appSign ="6543a4963e4cbbe01620dc0ae018744296f7bd959dc1d4e57d0509160c1f9edf";  // yourAppSign
+        long appID = 534178145;   // yourAppID
+        String appSign ="83ec8a6ea6688ccc20b8ed0f897b065fecda997635c422cf63f3031ce40039eb";  // yourAppSign
 
 
 
